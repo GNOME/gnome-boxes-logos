@@ -236,3 +236,44 @@ Trademarks Team
 
 Michelle Surtees-Myers
 Ubuntu - Linux for Human Beings
+
+============
+Endless OS
+==========
+
+Hey Felipe, 
+
+This sounds amazing! Yes, we are definitely interested and happy to have you place our logo there. I spoke with some others within Endless and it looks like we may need to find you the right logo assets. We are still in the process of creating logo guidelines and such, so in the meantime, I'll just ask our designers for guidance here. It looks like the logos in GNOME Boxes are circular. Are there dimensions or anything you can give me so I can ask our designers to create an appropriate asset? 
+
+Rob McQueen also mentioned that it'd be great if you could get the images you need from our live feed: https://github.com/endlessm/eos-meta/blob/master/eos-tech-support/eos-download-image
+
+Please let me know if there's anything else you need for this. Thank you again so much for including us, we really appreciate it!
+
+Best, 
+Nuritzi
+
+
+On Fri, Feb 23, 2018 at 2:57 AM, Felipe Borges <felipeborges@gnome.org> wrote:
+>
+> Hi Nuritzi,
+>
+> I have working this past cycle into getting popular operating systems
+> to show up in Boxes in what we call the "download an OS" page[0].
+>
+> For 3.28 I am including new operating systems such as Endless OS,
+> Pop!_OS, PureOS... so users can easily test/try/explore new distros
+> from the safety of their virtual machine manager. :)
+>
+> Besides of offering the option to download Endless OS, I would like to
+> show your logo next to it, like we do for other distros such as
+> Ubuntu, Fedora, OpenSUSE, RHEL, Debian.... for that I need an
+> authorization from your side[1].
+>
+> Could you please allow us to use it or put me in contact with someone
+> internally at Endless that could discuss this?
+>
+> Regards,
+> Felipe Borges.
+>
+> [0] https://feborg.es/boxes-downloadable-oses/
+> [1] https://gitlab.gnome.org/GNOME/gnome-boxes/raw/master/README.logos
