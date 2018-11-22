@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="256"
-   height="256"
+   width="64"
+   height="64"
    id="svg22006"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="fedora.svg">
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="ubuntu.svg">
   <defs
      id="defs22008" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="161"
-     inkscape:cy="37"
+     inkscape:cx="55.673868"
+     inkscape:cy="33.463235"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,7 +38,11 @@
      inkscape:window-height="1187"
      inkscape:window-x="2560"
      inkscape:window-y="59"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2173" />
+  </sodipodi:namedview>
   <metadata
      id="metadata22011">
     <rdf:RDF>
@@ -52,16 +56,61 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="grid"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <circle
+       cx="32.000027"
+       cy="32.017231"
+       r="29.752066"
+       id="circle2892"
+       style="display:inline;opacity:0.1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.49500001, 0.49500001;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
+    <rect
+       ry="3.9646444"
+       rx="4.350502"
+       y="4.2647157"
+       x="10.247517"
+       height="55.505024"
+       width="43.504993"
+       id="rect2894"
+       style="display:inline;opacity:0.1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.49500001, 0.49500001;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
+    <rect
+       ry="3.9619048"
+       rx="3.9619048"
+       y="6.2648535"
+       x="6.2476459"
+       height="51.504761"
+       width="51.504761"
+       id="rect2896"
+       style="display:inline;opacity:0.1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.49500001, 0.49500001;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
+    <rect
+       ry="4.3505025"
+       rx="3.9646444"
+       y="14.264717"
+       x="4.2475162"
+       height="43.505024"
+       width="55.50502"
+       id="rect2898"
+       style="display:inline;opacity:0.1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.49500001, 0.49500001;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;enable-background:new" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2900"
+       d="M 2.6203015e-5,58.517227 H 64.000028"
+       style="display:inline;fill:none;stroke:#62a0ea;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-16,-788.36218)">
+     transform="translate(-16,-980.36218)">
     <g
        id="g22116"
-       transform="matrix(0.820083,0,0,0.820083,29.267673,801.63018)">
+       transform="matrix(0.21203237,0,0,0.21203237,17.998138,982.29915)">
       <path
          id="path22108"
-         d="m 283.465,141.734 c 0,78.273 -63.457,141.73 -141.734,141.73 C 63.454,283.464 0,220.008 0,141.734 0,63.455 63.453,0 141.73,0 220.007,0 283.465,63.455 283.465,141.734 z"
+         d="m 283.465,141.734 c 0,78.273 -63.457,141.73 -141.734,141.73 C 63.454,283.464 0,220.008 0,141.734 0,63.455 63.453,0 141.73,0 220.007,0 283.465,63.455 283.465,141.734 Z"
          inkscape:connector-curvature="0"
          style="fill:#dd4814" />
       <path
