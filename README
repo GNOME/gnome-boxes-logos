@@ -11,6 +11,7 @@ Ubuntu: Canonical Ltd.
 openSUSE: Novell, Inc. [2]
 Debian: SPI (Software in the Public Interest).
 Red Hat Enterprise Linux: Red Hat, Inc.
+Manjaro: Manjaro GmbH & Co. KG
 
 The Fedora board/legal required we keep a special note in this file:
 
@@ -328,3 +329,17 @@ Attached is the Pop!_OS logo svg file for inclusion in GNOME Boxes.  We're all v
 
 Best,
 sri
+
+=================
+Manjaro Linux
+
+Manjaro GmbH & Co. KG owns the trademarks, both in the word and logo form, relating to the project.
+
+Keeping a balance between the integrity of our trademarks and the ability to represent Manjaro Linux, we granted the community to use our logo on given trademark terms.
+Since Gnome Boxes promotes Manjaro as a brand and supports our Linux Distribution, we have no issue with including our logo to your software "Boxes".
+
+For further information don't hesitate to contact us under trademark@manjaro.org
+
+kind regards
+Philip Müller
+CEO - Manjaro GmbH & Co. KG
