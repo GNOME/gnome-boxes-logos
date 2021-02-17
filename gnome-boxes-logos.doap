@@ -6,6 +6,7 @@
 
   <name xml:lang="en">GNOME Boxes Logos</name>
   <shortdesc xml:lang="en">A database of logos presented in GNOME Boxes</shortdesc>
+  <description xml:lang="en">The operating systems logos that GNOME Boxes presents to users</description>
   <category rdf:resource="http://api.gnome.org/doap-extensions#apps" />
   <programming-language>SVG</programming-language>
 
