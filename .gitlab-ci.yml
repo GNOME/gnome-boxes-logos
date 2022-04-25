@@ -2,7 +2,7 @@ pages:
   stage: deploy
   script:
   - mkdir ./public
-  - cp -R ./{recommended-downloads.xml} ./public
+  - cp recommended-downloads.xml ./public
   artifacts:
     paths:
     - public
