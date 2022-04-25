@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <os id="http://redhat.com/rhel/"/>
+  <os id="http://rockylinux.org/rocky/"/>
+  <os id="http://fedoraproject.org/fedora/"/>
+  <os id="http://fedoraproject.org/silverblue/"/>
+  <os id="http://ubuntu.com/ubuntu/"/>
+  <os id="http://opensuse.org/opensuse/"/>
+  <os id="http://opensuse.org/opensuse/tumbleweed/"/>
+  <os id="http://debian.org/debian/"/>
+  <os id="http://endlessos.com/eos/"/>
+  <os id="http://gnome.org/gnome/nightly"/>
+</list>
