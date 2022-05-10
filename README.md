@@ -16,7 +16,7 @@ Red Hat Enterprise Linux: Red Hat, Inc.
 Manjaro: Manjaro GmbH & Co. KG
 
 The Fedora board/legal required we keep a special note in this file:
-
+```
    Fedora®, the Fedora word design, and the Infinity design logo, either
    separately or in combination, are hereinafter referred to as "Fedora
    Trademarks" and are trademarks of Red Hat, Inc., registered in the
@@ -32,7 +32,7 @@ The Fedora board/legal required we keep a special note in this file:
    legend and this license are included with each copy you make, and
    they remain intact and are not altered, deleted, or modified in any
    way.
------------------------------------------------------------------------
+```
 
 [1] with the exception of Debian logo due to its very liberal licensing:
 
