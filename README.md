@@ -1,3 +1,5 @@
+# Boxes
+
 Boxes has acquired explicit permission from trademark owners for the usage and
 shipment (though we don't ship them but rather download them on demand) of their
 logos[1][3]. Please note that this permission does not extend to any derivate
@@ -49,14 +51,12 @@ http://en.opensuse.org/openSUSE:Trademark_guidelines
 [3] Following are the e-mails I recieved from vendors granting us explicit
     permissions to use their logos in Boxes:
 
-Fedora
-======
+## Fedora
 
 http://lists.fedoraproject.org/pipermail/advisory-board/2012-February/011367.html
 
-openSUSE
-========
-
+## openSUSE
+```
 From: awafaa@opensuse.org Andrew Wafaa
 Date: Wed, 22 Feb 2012 12:16:08 +0200
 Subject: Re: Permission to use openSUSE Logo for gnome-boxes
@@ -194,10 +194,10 @@ Cheers
 
 Tom
 ===
+```
+## Red Hat Enterprise Linux
 
-Red Hat Enterprise Linux
-========================
-
+```
 Subject: [redhat.com #10108047] Use of "Shadow Man" logo in GNOME Boxes
 From: "Pam Chestek via RT" <tmlicense@redhat.com>
 To: zeenix@redhat.com
@@ -222,10 +222,9 @@ Paula Weigel can help you with a copy of the logo.
 Pam
 
 ============
-
-Ubuntu
-======
-
+```
+## Ubuntu
+```
 From: michelle@canonical.com michelle@canonical.com
 Date: Tue, 21 Feb 2012 17:46:02 +0200
 Subject: Your application to Ubuntu to Trademarks
@@ -273,9 +272,11 @@ Michelle Surtees-Myers
 Ubuntu - Linux for Human Beings
 
 ============
-Endless OS
-==========
+```
 
+## Endless OS
+
+```
 Hey Felipe, 
 
 This sounds amazing! Yes, we are definitely interested and happy to have you place our logo there. I spoke with some others within Endless and it looks like we may need to find you the right logo assets. We are still in the process of creating logo guidelines and such, so in the meantime, I'll just ask our designers for guidance here. It looks like the logos in GNOME Boxes are circular. Are there dimensions or anything you can give me so I can ask our designers to create an appropriate asset? 
@@ -313,9 +314,9 @@ On Fri, Feb 23, 2018 at 2:57 AM, Felipe Borges <felipeborges@gnome.org> wrote:
 > [0] https://feborg.es/boxes-downloadable-oses/
 > [1] https://gitlab.gnome.org/GNOME/gnome-boxes/raw/master/README.logos
 
-===============
-Pop!_OS
-
+```
+## Pop!_OS
+```
 From: Sriram Ramkrishna <sri@system76.com>
 Date: Mon, Feb 26, 2018 at 6:15 PM
 Subject: Pop!_OS Logo for GNOME Boxes
@@ -330,9 +331,9 @@ Attached is the Pop!_OS logo svg file for inclusion in GNOME Boxes.  We're all v
 Best,
 sri
 
-=================
-Manjaro Linux
-
+```
+## Manjaro Linux
+```
 Manjaro GmbH & Co. KG owns the trademarks, both in the word and logo form, relating to the project.
 
 Keeping a balance between the integrity of our trademarks and the ability to represent Manjaro Linux, we granted the community to use our logo on given trademark terms.
@@ -343,3 +344,4 @@ For further information don't hesitate to contact us under trademark@manjaro.org
 kind regards
 Philip Müller
 CEO - Manjaro GmbH & Co. KG
+```
