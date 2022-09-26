@@ -18,7 +18,7 @@
   See https://gitlab.gnome.org/GNOME/gnome-boxes/-/wikis/recommended-downloads.xml
  -->
 <list>
-  <os id="http://redhat.com/rhel/"/>
+  <os id="http://redhat.com/rhel/9.0"/>
   <os id="http://rockylinux.org/rocky/"/>
   <os id="http://fedoraproject.org/fedora/"/>
   <os id="http://fedoraproject.org/silverblue/"/>
