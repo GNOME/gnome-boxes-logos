@@ -20,7 +20,10 @@
 <list>
   <os id="http://redhat.com/rhel/9.0"/>
   <os id="http://rockylinux.org/rocky/"/>
-  <os id="http://fedoraproject.org/fedora/"/>
+  <os id="http://fedoraproject.org/fedora/">
+    <title>Fedora Workstation 37 x86_64 (Live)</title>
+    <url>https://download.fedoraproject.org/pub/fedora/linux/releases/37/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-37-1.7.iso</url>
+  </os>
   <os id="http://fedoraproject.org/silverblue/"/>
   <os id="http://ubuntu.com/ubuntu/"/>
   <os id="http://opensuse.org/opensuse/15.4"/>
