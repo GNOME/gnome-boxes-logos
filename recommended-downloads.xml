@@ -18,7 +18,7 @@
   See https://gitlab.gnome.org/GNOME/gnome-boxes/-/wikis/recommended-downloads.xml
  -->
 <list>
-  <os id="http://redhat.com/rhel/9.0"/>
+  <os id="http://redhat.com/rhel/8.8"/>
   <os id="http://rockylinux.org/rocky/"/>
   <os id="http://fedoraproject.org/fedora/">
     <title>Fedora Workstation 38 x86_64 (Live)</title>
