@@ -11,7 +11,7 @@
   <programming-language>SVG</programming-language>
 
   <homepage
-  rdf:resource="https://gitlab.gnome.org/GNOME/gnome-boxes/raw/master/README.logos" />
+  rdf:resource="https://gitlab.gnome.org/GNOME/gnome-boxes-logos/-/blob/master/README.md" />
   <support-forum
   rdf:resource="https://discourse.gnome.org/tag/boxes" />
   <download-page
