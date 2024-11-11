@@ -22,7 +22,10 @@
     <title>Red Hat Enterprise Linux</title>
   </os>
   <os id="http://rockylinux.org/rocky/"/>
-  <os id="http://fedoraproject.org/fedora/"/>
+  <os id="http://fedoraproject.org/fedora/">
+    <title>Fedora Workstation 41 x86_64</title>
+    <url>https://download.fedoraproject.org/pub/fedora/linux/releases/41/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-41-1.4.iso</url>
+  </os>
   <os id="http://fedoraproject.org/silverblue/"/>
   <os id="http://ubuntu.com/ubuntu/"/>
   <os id="http://opensuse.org/opensuse/15.5"/>
